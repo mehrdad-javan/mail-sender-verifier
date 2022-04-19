@@ -1,4 +1,4 @@
-package se.lexicon.mail.api;
+package se.lexicon.mail;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;

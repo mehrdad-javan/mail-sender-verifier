@@ -1,4 +1,4 @@
-package se.lexicon.mail.api;
+package se.lexicon.mail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
